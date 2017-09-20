@@ -1,10 +1,10 @@
 <?php 
 /*
 Plugin Name: AVED Multi Slider 
-Plugin URI: http://AVEDsoft.com
-Description: WooCommerce Functional Slider
+Plugin URI: http://academweb.com
+Description: WooCommerce Functional Products Slider
 Version: 2.0
-Author: AVED soft | Vadim Kopeiken
+Author: Academweb | AVED soft | Vadim Kopeiken
 Author URI: http://avedsoft.com
 License: GPL2
 Copyright 2016  AVEDsoft  (email : AVEDsoft@gmail.com)

@@ -1,6 +1,6 @@
 === AVED Product Slider Lite ===
-Contributors: avedsoft
-Donate link: http://avedsoft.com
+Contributors: avedsoft | academweb
+Donate link: http://academweb.com
 Tags: carousel, product, slider, woocommerce, carousel slider, product slider, woocommerce slider, Woocommerce Product slider
 Requires at least: 4.5.2
 Tested up to: 4.6.1
