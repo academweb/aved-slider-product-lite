@@ -4,7 +4,7 @@ Plugin Name: AVED Multi Slider
 Plugin URI: http://academweb.com
 Description: WooCommerce Functional Products Slider
 Version: 2.0
-Author: Academweb | AVED soft | Vadim Kopeiken
+Author: Academweb | AVED soft
 Author URI: http://avedsoft.com
 License: GPL2
 Copyright 2016  AVEDsoft  (email : AVEDsoft@gmail.com)
